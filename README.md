@@ -15,3 +15,12 @@
 http://www.dotnetfunda.com/articles/show/2341/crud-operation-using-web-api-and-windows-application
 
 9. Adding CRUD operations.
+
+--
+For start:
+- Open in Visual Studio
+- Tools -> NuGet Package Manager -> Package Manager Console -> Restore
+- Start 'StudentsDB.WebAPI' project
+- Start 'DBClient.WindowsForms'; login using domain or PC cridentials
+- Press 'List students' button and wait for headers in dataGridView appear
+- Program is ready to use. Enjoy!
