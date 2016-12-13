@@ -14,7 +14,7 @@ namespace DBClient.WindowsForms
 {
     public partial class MainForm : Form
     {
-        string URI = "http://localhost:63280";
+        string URI = "http://localhost:11280";
 
         public MainForm()
         {
